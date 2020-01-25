@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
+import '../App.css'
 
 class StyledParagraph extends Component {
     render() {
-        return <p>This is a paragraph</p>
+        return <p className={this.props.className}>This is a paragraph</p>
     }
 }
 

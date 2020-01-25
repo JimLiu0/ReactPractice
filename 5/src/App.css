@@ -2,3 +2,15 @@
   text-align: center;
   padding: 20px;
 }
+
+.bold {
+  font-weight: bold;
+}
+
+.green {
+  color: green;
+}
+
+.italic {
+  font-style: italic;
+}
