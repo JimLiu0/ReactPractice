@@ -1,0 +1,10 @@
+.user-input {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 1px solid black;
+    width: 30%;
+    margin: 0 auto;
+    padding: 5px;
+    margin-bottom: 5px;
+}
